@@ -7,6 +7,6 @@ client/dist/
 !.env.example
 
 cookies.txt
+env-example
 
 .vscode/
-env-example
